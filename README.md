@@ -1,3 +1,1 @@
-# NoQs-Digital
-
-#happy learning #brocodeturnedintogocode
+#Web Dev Screening test
